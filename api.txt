@@ -1,0 +1,17 @@
+
+<input type="text" name="tnc2" id="tnc2" class="select  tolong" value="<?php echo $frm['tnc'] === 'YES' ? 'TNC' : '' ?>" disabled="" style="width: 110px">
+<?php  if($frm['tnc']==='YES'){?> 
+ <option value="0">Choose</option>
+ <option selected="" value="YES">YES</option>
+ <option value="NO">NO</option>
+ <?php }else{ ?>
+ <option value="0">Choose</option>
+ <option value="YES">YES</option>
+ <option value="NO">NO</option>
+<?php } ?>
+		
+
+
+Bearer j8mmmXG6v0Yk7CIEV6S65EJ8hvFa_idC09OdAjnFP2TM-MzGg9_VVMlQSNDdz0ktY4-LTCxys3NNZ_52npuDG6DNvhcqld1Dfyit_foSImurabia4xcJwupUMljqXnYx
+
+	
