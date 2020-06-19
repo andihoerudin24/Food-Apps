@@ -1,6 +1,5 @@
 import React from "react";
 import { View, Text, StyleSheet,FlatList } from "react-native";
-
 const ResultList = ({ title, results }) => {
   return (
     <View>
