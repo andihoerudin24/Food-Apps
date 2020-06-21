@@ -1,7 +1,7 @@
 import React from "react";
 import { View, Text, StyleSheet,FlatList,TouchableOpacity } from "react-native";
 import ResultDetail from './ResultDetail'
-
+ 
 const ResultList = props => {
   if(!props.results.length){
     return null
